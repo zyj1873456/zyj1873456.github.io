@@ -1,0 +1,67 @@
+/* CSS Document */
+
+body{
+font:"Î¢ÈíÑÅºÚ";
+margin:0px;
+font-size:16px;}
+
+.shang{
+font-size:36px;
+margin-bottom:60px;
+margin:20px;}
+
+.liu a{
+text-decoration:none;
+font-size:20px;}
+
+.xia{
+text-align:center;}
+
+.fabu{
+text-decoration:none;
+  margin-left:15px;
+  width:96%;
+  height:325px;
+    border-bottom-width:1px;
+    border-bottom-style: solid;
+    border-bottom-color:#999;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color:#999;
+    border-top-width:1px;
+    border-top-style:solid;
+    border-top-color:#999;
+    border-right-width:1px;
+    border-right-style: solid;
+    border-right-color:#999;}
+.fabu2{
+text-decoration:none;
+  margin-left:15px;
+  width:96%;
+  height:367px;
+    border-bottom-width:1px;
+    border-bottom-style: solid;
+    border-bottom-color:#999;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color:#999;
+    border-top-width:1px;
+    border-top-style:solid;
+    border-top-color:#999;
+    border-right-width:1px;
+    border-right-style: solid;
+    border-right-color:#999;}
+
+.detail{
+width:900px;
+height:200px;
+text-decoration:none;
+font-size:14px;}
+
+.xiaa{
+font-size:14px;
+text-align:center;
+margin:20px;}
+
+.xiaa a{
+text-decoration:none;}
